@@ -1,0 +1,27 @@
+/* NML PALE BLUE */
+.nml.page {
+    background-color: rgba(97, 215, 224, 0.1);
+    padding: 10px;
+    border-radius: 10px;
+}
+.nml h1,.nml h2,.nml h3,.nml h4,.nml h5 {
+    background: linear-gradient(to top, rgba(110, 139, 220, 0.3) 0%, rgba(0,0,0,0) 10%);
+}
+.nml h1:first-of-type {
+    background: linear-gradient(to right top, rgba(86, 115, 188, 0.3) 0%, rgba(0,0,0,0) 70%);
+    border-radius: 5px;
+    padding: 5px;
+}
+.nml pre {
+    margin: 20px;
+}
+.nml code {
+    background-color: rgb(226, 233, 241);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(151, 168, 194);
+}
+.nml td {
+    border-color: rgb(90, 119, 163);
+    padding: 2px;
+}

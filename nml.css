@@ -1,0 +1,25 @@
+/* NML */
+.nml h1,.nml h2,.nml h3,.nml h4,.nml h5 {
+    margin: 10px;
+    margin-left: 0px;
+}
+.nml {
+    font-family: serif;
+}
+.nml code {
+    font-family: monospace;
+    display: inline-block;
+}
+.nml img {
+    width: 70%;
+    max-width: 100%;
+}
+.nml table {
+    border: 1px solid;
+    border-collapse: collapse;
+    min-width: 100px;
+    width: 40%;
+}
+.nml td {
+    border: 1px solid;
+}
